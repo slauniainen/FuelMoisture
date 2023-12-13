@@ -130,3 +130,7 @@ dmypy.json
 
 # forcing data
 Data/forcing
+Data/Hyytiala
+
+# nc-files
+.nc
